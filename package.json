@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-sinch",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Cordova Sinch Plugin",
   "cordova": {
     "id": "cordova-plugin-sinch",
