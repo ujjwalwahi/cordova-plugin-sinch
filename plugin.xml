@@ -4,9 +4,14 @@
     <description>Cordova Sinch Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,sinch</keywords>
-    <js-module src="www/device.js" name="device">
-        <clobbers target="device" />
+    <js-module src="www/sinchCalling.js" name="sinchCalling">
+            <!--<runs/>-->
+        <clobbers target="sinchCalling" />
     </js-module>
+
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
     <platform name="android">
         <js-module src="www/sinchCalling.js" name="sinchCalling">
             <runs/>
