@@ -40,6 +40,6 @@
 
         <framework src="src/android/com/sinchcalling/sinchCalling.gradle" custom="true" type="gradleReference" />
 
-        <resource-file src="src/android/com/sinchcalling/sinch-android-rtc-3.17.0.aar" target="libs/sinch-android-rtc-3.12.2.aar" />
+        <resource-file src="src/android/com/sinchcalling/sinch-android-rtc-3.17.0.aar" target="libs/sinch-android-rtc-3.17.0.aar" />
     </platform>
 </plugin>
