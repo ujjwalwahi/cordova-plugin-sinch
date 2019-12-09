@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-sinch",
+  "version": "0.2.3",
+  "description": "Cordova Sinch Plugin",
+  "cordova": {
+    "id": "cordova-plugin-sinch",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwalwahi/cordova-plugin-sinch.git"
+  },
+  "keywords": [
+    "cordova",
+    "sinch",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ujjwal Wahi",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ujjwalwahi/cordova-plugin-sinch/issues"
+  },
+  "homepage": "https://github.com/ujjwalwahi/cordova-plugin-sinch#readme"
+}
